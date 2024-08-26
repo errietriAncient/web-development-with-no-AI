@@ -1,2 +1,3 @@
 Haloo ini adalah pengenelan dari saya dan ini adalah file pertama yang saya buat di github tentang belajar git secara mandiri
 --- yuk bisa yuk --
+--- mari berjuang ---
