@@ -4,3 +4,4 @@ Rencana pengembangan
 - beljar framework java script dan php
 - beljar tailwind
 Lebih banyak belajar lagi
+belajar react
