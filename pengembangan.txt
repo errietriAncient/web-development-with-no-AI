@@ -2,6 +2,6 @@ Rencana pengembangan
 - memulai belajar lebih banyak lagi
 - ingin mencari mentor
 - beljar framework java script dan php
-- beljar tailwind
-Lebih banyak belajar lagi
-belajar react
+- belajar Angular
+  Lebih banyak belajar lagi
+-laravel
