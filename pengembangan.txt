@@ -3,5 +3,5 @@ Rencana pengembangan
 - ingin mencari mentor
 - beljar framework java script dan php
 - belajar Angular
-Lebih banyak belajar lagi
+  Lebih banyak belajar lagi
 -laravel
